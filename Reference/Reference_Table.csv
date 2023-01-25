@@ -1,0 +1,25 @@
+Primary_Name,File_Name,Description,Category,Organization,Topic
+General Lake Assessment,GeneralAssess_202212258.pdf,General lake assessment survey,Primary,,Lakes
+Ice Cover and Thickness,IceCoverThickness_20221228.pdf,Ice cover and thickness observations,Primary,,Lakes
+Secchi Depth Transparency,Secchi_20221228.pdf,Secchi depth transparency measurements,Primary,,Lakes
+Vertical Profile,VerticalProf_20221228.pdf,Vertical profile - discrete and continuous sensor array (main document),Primary,,Lakes
+Vertical Profile Attachment A,VerticalProf_AttachA_Rationale_20221229.pdf,Vertical profile - rationale for continuous sensor array (Attachment A),Supplemental,,Lakes
+Vertical Profile Attachment B,VerticalProf_AttachB_SensorArrayPrez_20221114.pdf,Vertical profile - presentation on designing and deploying continuous sensor arrays (Attachment B),Supplemental,,Lakes
+Vertical Profile Attachment C,VerticalProf_AttachC_ArrayDesignQA_20221229.docx,Vertical profile - site questionnaire to help inform array design (Attachment C),Supplemental,,Lakes
+Vertical Profile Attachment D,VerticalProf_AttachD_ArrayDesign_20221228.xlsx,Vertical profile - spreadsheet to design and estimate cost of array (Attachment D),Supplemental,,Lakes
+Water Chemistry,WaterChem_20221228.pdf,Water chemistry samples (grab or in situ),Primary,,Lakes
+Water Level,WaterLevel_20221228.pdf,Water level - discrete and continuous with non-vented pressure transducers (main document),Primary,,Lakes
+Water Level Attachment A,WaterLevel_AttachA_WI_SurveyorProtocol_2018.pdf,Water level - WI DNR Lake Level Monitoring Surveyor Protocol (Attachment A),Supplemental,,Lakes
+Water Level Attachment B,WaterLevel_AttachB_Elia_SOP4_WaterLevel.pdf,Water level - measuring discrete water level (NPS GLKN) (Attachment B),Supplemental,,Lakes
+Water Level Attachment C,WaterLevel_AttachC_WI_VolunteerProtocol_2018.pdf,Water level - WI DNR Volunteer Lake Level Monitoring Protocol (Attachment C),Supplemental,,Lakes
+Water Level Attachment D,WaterLevel_AttachD_LOCSS-Training-Manual_20221229.pdf,Water level - training manual discrete (LOCSS) (Attachment D) Lake Observations by Citizen Scientists & Satellites (LOCSS) network ,Supplemental,,Lakes
+Southeast Monitoring Network Sentinel Site Protocol,Southeast Monitoring Network Monitoring Protocol.pdf,"Southeast Stream Monitoring Network (macroinvertebrates, fish, diatoms, physical/chemical, temperature, water level)",Primary,,Streams
+Stream RMN Protocols - Hydrology,StreamRMN_Hydro_20221229.pdf,Continuous monitoring of water level and discharge (abbreviated version of USEPA 2014 with some updates),Primary,,Streams
+Stream RMN Protocols - Mid-Atlantic Macroinvertebrates,StreamRMN_Macroinvertebrates_MA_20221229.pdf,Collection of stream macroinvertebrates (Mid-Atlantic),Primary,,Streams
+Stream RMN Protocols - Northeast Macroinvertebrates,StreamRMN_Macroinvertebrates_NE_20221229.pdf,Collection of stream macroinvertebrates (Northeast),Primary,,Streams
+Stream RMN Protocol - Region 5 Macroinvertebrates,StreamRMN_Macroinvertebrates_R5_20221229.pdf,Collection of stream macroinvertebrates (Upper Midwest),Primary,,Streams
+Stream RMN Protocol - Temperature,StreamRMN_Temperature_20221229.pdf,Continuous monitoring of stream temperature (abbreviated version of USEPA 2014 with some updates),Primary,,Streams
+Best Practices for Continuous Monitoring of Temperature and Flow in Wadeable Streams,USEPA2014_TEMPFLOW_BESTPRACTICE.PDF,Best practices for continuous monitoring of temperature and hydrology in wadeable streams (USEPA 2014),Primary,,Streams
+Camera Deployment Best Practices for Streamflow Monitoring Using Computer Vision Machine Learning,Camera Deployment Best Practices for Streamflow Monitoring.docx,Best practices for camera deployment for streamflow monitoring for the Flow Photo Explorer project \(<a href='https://www.usgs.gov/apps/ecosheds/fpe/#/'><b>link</b></a>\),Primary,,Cameras
+SOP for Setting Moultrie M-550 Digital Trail Camera for Stream Flow Picture Documentation,SOP_MoultrieTrailCamera_20161116.docx,SOP for using the Moultrie M-550 digital trail camera for stream flow picture documentation,Primary,,Cameras
+SOP for Setting RECONYX HyperFire 2 Digital Trail Camera for Streamflow Photo Documentation,SOP_RECONYX_HyperFire2_20191028.docx,SOP for using the RECONYX HyperFire2 digital trail camera for stream flow picture documentation,Primary,,Cameras
